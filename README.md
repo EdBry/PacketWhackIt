@@ -1,3 +1,3 @@
 # WhackThatPacket
-Get them sigs yo
-Devon gon be sweatin
+You're getting a red, bouncing, screensaver-esque ball in your browser.
+Merry Christmas
